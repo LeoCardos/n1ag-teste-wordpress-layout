@@ -42,6 +42,9 @@ Para importar corretamente o template, é necessário ter instalado:
    - Vá em *Aparência → Temas → Adicionar novo → Buscar “Hello Elementor” → Instalar e Ativar*.
 
 2. **Instale e ative os plugins obrigatórios**
+     ```
+     teste-tecnico-n1ag/plugins-utilizados/
+     ```
    - Elementor  
    - Elementor Pro  
 
@@ -49,7 +52,7 @@ Para importar corretamente o template, é necessário ter instalado:
    - Vá até *Elementor → Ferramentas → Importar/Exportar Kit*.  
    - Clique em **“Importar Kit”** e selecione:
      ```
-     /elementor-kit/template-teste-n1ag.zip
+     /teste-tecnico-n1ag/template-teste-n1ag.zip
      ```
 
 4. **Conclua a importação**
