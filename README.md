@@ -29,7 +29,6 @@ Para importar corretamente o template, é necessário ter instalado:
 ## 📦 Estrutura do Repositório
 
 📁 teste-tecnico-n1ag/
-├── 📄 README.md
 ├── 📁 elementor-kit/
 │ └── template-teste-n1ag.zip ← Arquivo de exportação do Elementor (kit completo)
 └── 📁 plugins utilizados/
