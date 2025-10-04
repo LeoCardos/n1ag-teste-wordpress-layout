@@ -22,7 +22,7 @@ Para importar corretamente o template, é necessário ter instalado:
 - **Tema base:** [Hello Elementor](https://wordpress.org/themes/hello-elementor/)  
 - **Plugins:**
   - [Elementor](https://br.wordpress.org/plugins/elementor/)
-  - [Elementor Pro](https://elementor.com/pro/) *(obrigatório para utilizar os templates globais como Header e Footer)*
+  - [Elementor Pro](https://elementor.com/pro/)
 
 ---
 
