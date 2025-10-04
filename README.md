@@ -38,26 +38,28 @@ Para importar corretamente o template, é necessário ter instalado:
 
 ## 🚀 Como Instalar o Template
 
-1. **Instale o tema Hello Elementor**
+1. **Instale o tema Hello Elementor**  
    - Vá em *Aparência → Temas → Adicionar novo → Buscar “Hello Elementor” → Instalar e Ativar*.
 
-2. **Instale e ative os plugins obrigatórios**
-     ```
-     teste-tecnico-n1ag/plugins-utilizados/
-     ```
+2. **Instale e ative os plugins obrigatórios**  
    - Elementor  
    - Elementor Pro  
 
-3. **Importe o Kit Elementor**
+3. **Ative envio de arquivos não filtrados (Importante!)**  
+   - Vá em *Elementor → Configurações → Avançado*  
+   - Ative a opção **“Permitir envio de arquivos não filtrados”**  
+   - Isso garante que o arquivo do kit Elementor seja importado corretamente sem restrições de upload.
+
+4. **Importe o Kit Elementor**  
    - Vá até *Elementor → Ferramentas → Importar/Exportar Kit*.  
    - Clique em **“Importar Kit”** e selecione:
      ```
-     /teste-tecnico-n1ag/template-teste-n1ag.zip
+     /teste-tecnico-n1ag/elementor-kit/template-teste-n1ag.zip
      ```
 
-4. **Conclua a importação**
+5. **Conclua a importação**  
    - Marque todas as opções para importar páginas, templates e estilos.  
    - Clique em **Importar** e aguarde o processo terminar.  
 
-5. **Finalize**
+6. **Finalize**  
    - O site estará configurado conforme o layout do Figma, totalmente responsivo e funcional.
